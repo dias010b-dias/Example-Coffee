@@ -423,6 +423,14 @@ footer {
 }
 
 
+#menu,
+#contacts,
+footer {
+    position: relative;
+    left: -15px;
+}
+
+
 
 
 
