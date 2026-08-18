@@ -377,6 +377,14 @@ img {
 }
 
 
+.menu-item img {
+    width: 100%;
+    max-width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+
 
 
 
