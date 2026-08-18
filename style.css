@@ -431,6 +431,19 @@ footer {
 }
 
 
+.hero {
+    padding-top: 40px;
+}
+
+.hero img {
+    transform: translateY(30px);
+}
+
+.hero h2 {
+    transform: translateX(-20px);
+}
+
+
 
 
 
