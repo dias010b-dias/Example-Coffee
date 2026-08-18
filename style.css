@@ -399,6 +399,30 @@ section, footer, header {
 }
 
 
+#menu,
+#contacts,
+footer {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.menu-container,
+.menu-items {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.menu-item {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 
 
 
