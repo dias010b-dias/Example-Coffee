@@ -364,6 +364,19 @@ img {
 }
 
 
+.menu-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu-item {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
 
 
 
