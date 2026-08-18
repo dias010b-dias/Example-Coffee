@@ -385,6 +385,20 @@ img {
 }
 
 
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+section, footer, header {
+    max-width: 100%;
+}
+
+
 
 
 
