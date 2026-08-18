@@ -308,6 +308,14 @@ img {
     margin: 0 auto;
 }
 
+.hero {
+    padding-bottom: 80px;
+}
+
+.hero img {
+    margin-top: 30px;
+}
+
 
 
 
