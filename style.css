@@ -267,3 +267,29 @@ footer {
     }
 
 }
+
+
+@media (max-width: 768px) {
+
+    .about-container img {
+        margin-bottom: 30px;
+    }
+
+ @media (max-width: 768px) {
+
+    .menu-items {
+        justify-content: center;
+        width: 100%;
+    }
+
+    .menu-item {
+        margin: 0 auto;
+    }
+
+}
+
+    .about-text p {
+        line-height: 1.6;
+    }
+
+}
