@@ -345,6 +345,27 @@ img {
 }
 
 
+.hero {
+    padding-bottom: 120px;
+}
+
+
+.menu-items {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu-items img {
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+
+
 
 
 
