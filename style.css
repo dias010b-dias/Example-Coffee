@@ -248,3 +248,22 @@ footer {
     margin: 8px;
     font-size: 14px;
 }
+
+@media (max-width: 768px) {
+
+    .about-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .about-container img {
+        width: 100%;
+        max-width: 350px;
+        margin-bottom: 20px;
+    }
+
+    .about-text {
+        width: 100%;
+    }
+
+}
